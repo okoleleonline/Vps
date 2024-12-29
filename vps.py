@@ -149,7 +149,7 @@ def attack_thread(ip, port, attack_time, attack_id):
                    f'🌐IP: {ip}\n'
                    f'📍Port: {port}\n'
                    f'🕰Time: {end_time - start_time:.2f} seconds\n'
-                   f'Watermark: @PsychoVillain19.')
+                   f'Watermark: @DarkDdosOwner.')
 
         # Fetch the user ID who initiated the attack
         conn = sqlite3.connect('bot_data.db')
